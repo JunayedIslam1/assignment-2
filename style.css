@@ -89,11 +89,44 @@ body {
     margin-bottom: 15px;
 }
 
+.list-name h3 a {
+    text-decoration: none;
+    color: #161616;
+    cursor: pointer;
+}
+
 .blog {
     background-color: #DD0000;
 }
 
 /* list-bar End */
+/* upcoming mathes html */
+.mathes-detail {
+    background-color: aqua;
+    padding: 5px;
+    height: 300px;
+    border-radius: 8px;
+    margin-right: 20px;
+}
+
+.matches-time {
+    margin-top: 40px;
+    text-align: center;
+}
+
+.matches {
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.matches img {
+    width: 95px;
+    height: 60px;
+}
 
 /* player details */
 .player-details {
