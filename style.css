@@ -270,8 +270,12 @@ body {
     }
 
     .footer {
-        height: 320px;
+        height: 350px;
         border-radius: 5px;
+    }
+
+    .social-site {
+        margin-top: 50px;
     }
 }
 
