@@ -114,6 +114,10 @@ body {
     text-align: center;
 }
 
+.schedule-text {
+    color: #4D4D4D;
+}
+
 .matches {
     width: 90%;
     display: flex;
